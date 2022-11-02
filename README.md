@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/Fgh3GzGWAAEBhlt?format=jpg&name=900x900"/>
+<img src="https://pbs.twimg.com/media/FgiCnQsWAAArM_s?format=jpg&name=large"/>
 <div>
   <p align="center">  
     <a href="https://github.com/lucaslinsl"><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslinsl&layout=compact&langs_count=7&theme=transparent"/>
