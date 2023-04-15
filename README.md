@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/FgiCnQsWAAArM_s?format=jpg&name=large"/>
+<img src="https://pbs.twimg.com/media/FtxlxG2XwAQSXNF?format=jpg&name=900x900"/>
 <div>
   <p align="center">  
     <a href="https://github.com/lucaslinsl"><img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslinsl&layout=compact&langs_count=7&theme=transparent"/>
@@ -6,7 +6,7 @@
   </p>
 </div>
 
-<img align="right" alt="Lucas-photo" height="380" style="border-radius:150px;" src="https://pbs.twimg.com/media/FgiSqUwXgAAgO1g?format=jpg&name=medium">
+<img align="right" alt="Lucas-photo" height="380" style="border-radius:150px;" src="https://pbs.tcwimg.com/media/FgiSqUwXgAAgO1g?format=jpg&name=medium">
 
 ##
 
