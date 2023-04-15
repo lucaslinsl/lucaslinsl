@@ -6,7 +6,7 @@
   </p>
 </div>
 
-<img align="right" alt="Lucas-photo" height="380" style="border-radius:150px;" src="https://pbs.tcwimg.com/media/FgiSqUwXgAAgO1g?format=jpg&name=medium">
+<img align="right" alt="Lucas-photo" height="380" style="border-radius:150px;" src="https://pbs.twimg.com/media/FgiSqUwXgAAgO1g?format=jpg&name=900x900">
 
 ##
 
